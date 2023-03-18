@@ -1,0 +1,12 @@
+{
+  "name": "vite-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./server/server.js",
+  "scripts": {
+    "start": "cd ./server && node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
